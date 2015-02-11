@@ -4,7 +4,7 @@ British Columbia iOS Developers Slack is a place for iOS software developers who
 
 ### How do I join?
 
-The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing jim@taptonics.com. If you are already a member, you can use a slash command to invite other users, eg: `/requestinvite name@email.com` and and admin will handle the request!
+The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing `jim@taptonics.com`.
 
 ### Why does this exist?
 
