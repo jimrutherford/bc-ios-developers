@@ -20,7 +20,7 @@ Basically just be nice, treat others how you would like to be treated.
 
 #### Code of Conduct
 
-Orlando Developers Slack is a harassment free space. We do not tolerate harassment of any kind.
+British Columbia iOS Developers Slack is a harassment free space. We do not tolerate harassment of any kind.
 
 ##### Harassment includes
 
