@@ -4,7 +4,7 @@ British Columbia iOS Developers Slack is a place for iOS software developers who
 
 ### How do I join?
 
-The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing `jim@taptonics.com`.
+You can join this group by requesting an invite at http://bc-ios-dev.taptonics.com
 
 ### Why does this exist?
 
